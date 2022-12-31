@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+        
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(231, 228, 228);
+}
+
+.or{
+font-weight: bold;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+
+}
+
+.main-head-div{
+background-color: black;
+color: white;
+margin-right: 30%;
+padding: 30px;
+}
+
+#main-head{
+font-weight: 900;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 40px;
+}
+
+.copy-right{
+text-align: center;
+color: azure;
+background-color: black;
+font-weight: bold;
+padding: 10px;
+margin: 11px;
+font-size: 14px;
+}
+
+.copy-right-div{
+margin-bottom: -10px;
+}
+
+.heading{
+/* text-align: center; */
+font-family: 'Source Sans Pro', sans-serif;
+font-weight: bold;
+font-size: 20px;
+padding: 10px;
+}
+
+.heading-over{
+text-align: center;
+font-family: 'Source Sans Pro', sans-serif;
+font-weight: bold;
+font-size: 20px;
+padding: 10px;
+}
+
+.head-div{
+margin-left: 2%;
+margin-right: 60%;
+background-color: rgb(220, 220, 220);
+border-radius: 5px;
+}
+
+
+.head-div-over{
+margin-left: 30%;
+margin-right: 30%;
+background-color: rgb(220, 220, 220);
+border-radius: 5px;
+}
+
+.pera{
+padding: 30px;
+font-weight: 100;
+font-size: 13;
+
+}
+
+img{
+border-radius: 10px;
+}
+
+ul {
+font-weight: bold;
+list-style-type: none;
+overflow: hidden;
+background-color: #333;
+position:fixed ;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover:not(.active) {
+background-color: #111;
+}
+
+.active {
+background-color: rgb(33, 155, 249);
+}
+video{
+    margin-left: 11px;
+    margin-right: 6px;
+    
+}
+
+.fa{
+    margin-left: 116px;
+    padding-left: 31px;
+}
